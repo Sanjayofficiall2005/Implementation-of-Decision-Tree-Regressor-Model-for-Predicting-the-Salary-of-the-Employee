@@ -48,13 +48,19 @@ mse
 r2=metrics.r2_score(y_test,y_pred)
 r2
 dt.predict([[5,6]])
+```
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/9f48a0d3-ef2c-401e-bd43-8c21b2e6c56d)
+
 ![image](https://github.com/user-attachments/assets/57f01bb6-0b6f-40da-a1af-0e058c662375)
+
 ![image](https://github.com/user-attachments/assets/3b9ae8b4-f39c-43b4-b68e-c17705143fe3)
+
 ![image](https://github.com/user-attachments/assets/19662a45-f6de-444d-b6a6-d385b6611f1b)
+
 ![image](https://github.com/user-attachments/assets/cf60a963-496b-4197-9d94-d7629d1df7c9)
+
 ![image](https://github.com/user-attachments/assets/68636fd7-bd27-449c-8f0a-9c81d912654a)
 
 
